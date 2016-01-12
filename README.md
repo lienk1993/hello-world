@@ -1,2 +1,2 @@
 # hello-world
-Capstone 2 homework
+Hello, how are you?
